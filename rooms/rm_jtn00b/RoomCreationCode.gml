@@ -1,0 +1,1 @@
+if audio_is_playing(snd_sega) audio_stop_sound(snd_sega);
